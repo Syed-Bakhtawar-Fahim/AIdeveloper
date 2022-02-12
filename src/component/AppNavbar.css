@@ -1,0 +1,29 @@
+.NavUl
+{
+  margin: 0px 5px;
+  /* border: 1px solid red; */
+  padding: 3px 15px;
+  text-decoration: none;
+  color: #666;
+
+}
+.NavUl:hover
+{
+  color: #1C96C5 !important;
+  font-weight: bold;
+   border-bottom: 1px solid #1C96C5;
+}
+.navbar-brand
+{
+  font-size: 1.5rem;
+  color: #1C96C5 !important;
+}
+.navbar-brand:hover
+{
+    color: #1C96C5 !important;
+}
+.activePage
+{
+    font-weight: bold;
+    border-bottom: 1px solid #1C96C5;
+}

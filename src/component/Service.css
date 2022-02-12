@@ -1,0 +1,109 @@
+.serviceSection
+{
+    margin: 10px 0;
+    display: grid;
+    /* grid-template-columns: repeat(3, 1fr); */
+    grid-template-columns: repeat( auto-fit, minmax(300px, 2fr) );
+}
+
+.allImg
+{
+    height: 15rem;
+    
+}
+
+@media only screen and (max-width: 474px)
+{
+    .resCard{
+        margin-bottom: 10px;
+    }
+
+}
+@media only screen and (max-width: 767px)
+{
+    .serviceSection{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0;
+        padding: 0%;
+    }
+
+}
+
+@media only screen and (max-width: 446px)
+{
+    .resCard{
+        margin-bottom: 10px;
+
+    }
+    .serviceSection{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 485px)
+{
+    .resCard{
+        margin-bottom: 10px;
+
+    }
+}
+@media only screen and (max-width: 412px)
+{
+    .resCard{
+        margin-bottom: 10px;
+
+    }
+
+    .serviceSection{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        margin: 0;
+        padding: 0 20px;
+    }
+}
+@media only screen and (max-width: 320px)
+{
+    .resCard{
+        margin-bottom: 10px;
+
+    }
+
+    .serviceSection{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        margin-left: 15px;
+        
+    }
+}
+@media only screen and (max-width: 606px)
+{
+    .resCard{
+        margin-bottom: 10px;
+
+    }
+
+    
+}
+@media only screen and (max-width: 425px)
+{
+    .resCard{
+        margin-bottom: 10px;
+
+    }
+
+    .serviceSection{
+    
+        margin-left: 15px;
+        
+    }
+}
+@media only screen and (max-width: 1024px)
+{
+   
+}

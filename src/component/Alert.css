@@ -1,0 +1,17 @@
+.Alert
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: #1C96C5;
+    padding:10px;
+    border-radius: 6px;
+    margin: 10px auto;
+    width: 60%;
+    color: #fff;
+
+
+
+}
