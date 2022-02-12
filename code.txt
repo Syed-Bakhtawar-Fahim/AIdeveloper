@@ -1,0 +1,36 @@
+<Nav.Link href="/" className="NavUl">Home</Nav.Link>
+                            <Nav.Link href="about" className="NavUl">About</Nav.Link>
+                            <Nav.Link href="services" className="NavUl">Services</Nav.Link>
+                            <Nav.Link href="contact" className="NavUl">Contact</Nav.Link>
+
+ <div className='container-fluid mb-5'>
+        <div className='row'>
+          <div className='col-10 mx-auto'>
+            <div className='row'>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+   {/* <div className='container-fluid mb-5'>
+        <div className='row'>
+          <div className='col-10 mx-auto'>
+            <div className='row'>
+              <div className='col-md-4 col-10'>
+                <Card style={{ width: '18rem' }}>
+                  <Card.Img variant="top" src= {web} />
+                  <Card.Body>
+                    <Card.Title>Card Title</Card.Title>
+                    <Card.Text>
+                      Some quick example text to build on the card title and make up the bulk of
+                      the card's content.
+                    </Card.Text>
+                    <Button variant="primary">Go somewhere</Button>
+                  </Card.Body>
+                </Card>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> */}

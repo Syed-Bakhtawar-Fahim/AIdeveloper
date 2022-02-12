@@ -18,11 +18,14 @@
     color: #3498db;
     border: 2px solid #3498db;
     text-decoration: none;
+    cursor: pointer;
 }
 .own-btn-get-started:hover
 {
     background-color: #3498db;
     color: #fff;
+    cursor: pointer;
+    
 }
 
 #header
