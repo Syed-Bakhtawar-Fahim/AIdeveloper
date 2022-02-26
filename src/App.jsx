@@ -14,6 +14,7 @@ import './App.css';
 function App() {
   return (
     <React.Fragment>
+   
       <AppNavbar />
       <Routes>
         <Route path='/' element={<Home />} />
